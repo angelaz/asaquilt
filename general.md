@@ -7,6 +7,6 @@ For the bookshelf itself I'm going to use 2" strips (~1.5" after sewing) for the
 ___
 All of the fabrics I'll be using are jersey knit, which means they stretch and can become distorted while sewing. 
 
-![Unstretched and stretched jersey fabric](/images/stretchedout.jpg)
+![Unstretched and stretched jersey fabric](/images/stretchedout.png)
 
 The way to deal with this is to use [woven interfacing](https://en.wikipedia.org/wiki/Interfacing) ironed on to the back side of the fabric.
