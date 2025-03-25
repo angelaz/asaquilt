@@ -4,7 +4,7 @@
 
 To start with, we have the very rote task of cutting out every book. I decided to begin with what will be bookshelf #3 because it has the most books, so let's get that over with.
 
-![Cut strips](/images/cutbooks.png)
+![Cut strips](/images/cutbooks.jpg)
 
 I highly recommend labeling both the top and bottom portions of each vertical strip with a number to keep track of what's what.
 
@@ -12,13 +12,13 @@ I highly recommend labeling both the top and bottom portions of each vertical st
 
 Here I had an insight that I'm quite proud of: When I was making the quilt for my son, I found it incredibly annoying and finicky to have to cut out tons and tons of rectangles of woven interfacing and the background fabric. This time I decided to sort the books by width, and cut out long strips of both fabrics that I could then cut down to size as I go!
 
-![Cutting strips of background fabric](/images/bgstrip.png)
+![Cutting strips of background fabric](/images/bgstrip.jpg)
 
-![Many strips of background fabric](/images/manystrips.png)
+![Many strips of background fabric](/images/manystrips.jpg)
 
-![Cutting strips of woven interfacing](/images/interfacingstrip.png)
+![Cutting strips of woven interfacing](/images/interfacingstrip.jpg)
 
-![Pile of all the strips](/images/allstrips.png)
+![Pile of all the strips](/images/allstrips.jpg)
 
 Now I only need to cut off rectangles of the appropriate length as I go -- hooray for preprocessing!
 
@@ -41,7 +41,7 @@ My process for this was:
 4. Cut that^ out
 5. Pin together the background fabric and book fabric so I don't misplace them
 
-![Fabrics for shelf 3, all cut and pinned](/images/cutshelf3.png)
+![Fabrics for shelf 3, all cut and pinned](/images/cutshelf3.jpg)
 
 <h2>Sewing the books together</h2>
 
@@ -49,7 +49,7 @@ To start with, I sewed each book to the background color (basically sewing where
 
 Unfortunately, I forgot to take pictures of the process for the slanted books, so I'll attempt to illustrate how I did those instead. 
 
-![Illustration for how to make slanted books](/images/demo.png)
+![Illustration for how to make slanted books](/images/demo.jpg)
 
 We're going to use post-its to demonstrate so you can see things better in 3D. The dashed pencil lines represent where we'll be sewing (i.e. the margin), and the pink horizontal line at the bottom of the post-it represents our line drawn in tailor's chalk.
 
@@ -67,7 +67,7 @@ Joining the books to each other is a matter of sewing straight seams, ironing, a
 
 Here's the completed shelf, both front and back views ft. my cat.
 
-![Front of shelf #3](/images/front3.png)
-![Back of shelf #3](/images/back3.png)
+![Front of shelf #3](/images/front3.jpg)
+![Back of shelf #3](/images/back3.jpg)
 
 **Total time:** 3 hours. It took me 45 minutes to cut things out and another 2h15 to sew & iron.
