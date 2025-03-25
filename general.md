@@ -1,4 +1,4 @@
-<h1>General preparation</h1>
+<h1>General preparation & information</h1>
 
 For the bookshelf itself I'm going to use 2" strips (~1.5" after sewing) for the "wood" and 5" strips for the border around the shelf. To start with I went ahead and cut out some long strips.
 
