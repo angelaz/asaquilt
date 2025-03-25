@@ -49,7 +49,7 @@ To start with, I sewed each book to the background color (basically sewing where
 
 Unfortunately, I forgot to take pictures of the process for the slanted books, so I'll attempt to illustrate how I did those instead. 
 
-![Illustration for how to make slanted books](/images/demo.jpg)
+![Illustration for how to make slanted books](/images/demo.png)
 
 We're going to use post-its to demonstrate so you can see things better in 3D. The dashed pencil lines represent where we'll be sewing (i.e. the margin), and the pink horizontal line at the bottom of the post-it represents our line drawn in tailor's chalk.
 
