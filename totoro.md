@@ -50,5 +50,5 @@ To finish off the details of the Totoro, I hand-stitched with DMC 310 for the bl
 Here's the completed block! I went ahead and reused [the books I had to remove from shelf #3](/shelf4.md#attaching-shelves-3--4) here as the books to the right of Totoro.
 ![Completed Totoro](/images/donet.jpg)
 
-**Total time:** 1h45.
+**Total time:** 1h45. Continue reading [here](/shelves1and2.md).
 
