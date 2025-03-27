@@ -12,7 +12,7 @@ I started by making an appliqué plant pot. Same process as for the Totoro, but 
 
 ![Traced plant pot](/images/pot.jpg)
 
-Here's the plant pot, as seen from the front and the back. I kept it pretty simple because this will mostly be covered by appliqué leaves later, anyways.
+Here's the plant pot, as seen from the front and the back. I kept it pretty simple because this will mostly be covered by appliqué leaves later anyways.
 ![Front and back of plant pot](/images/potfb.png)
 
 Otherwise making this inner shelf was the same as the other 3 times.
