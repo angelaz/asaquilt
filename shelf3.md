@@ -72,4 +72,4 @@ Here's the completed shelf, both front and back views ft. my cat.
 
 **Total time:** 3 hours. It took me 45 minutes to cut things out and another 2h15 to sew & iron.
 
-Next, [I worked on shelf #4...](/shelf4.md)
+Next, [I worked on shelf #4.](/shelf4.md)

@@ -32,17 +32,16 @@ Then cut the fabric, ad repeat until done. Same process as [last time](/shelf3.m
 Here's each book sewn to the top bit:
 ![Fabrics for shelf #4 sewn to their tops](/images/sewnshelf4.jpg)
 
-and ironed:
+And ironed:
 ![Fabrics for shelf #4 sewn & ironed](/images/ironedshelf4.jpg)
 
 Then it's time to start sewing the books to each other. Here's a couple of them sewn:
 ![Starting to sew the books to each other](/images/sewn4_1.jpg)
 
-all of them sewn and ironed:
+All of them sewn and ironed:
 ![Sewing the books to each other](/images/sewn4_2.jpg)
 
 And repeat until done! Here are front and back views of the completed shelf:
-
 ![Front of shelf #4](/images/front4.jpg)
 ![Back of shelf #4](/images/back4.jpg)
 
@@ -53,15 +52,12 @@ To start with, I pinned a long strip of the brown fabric (for the bookshelf itse
 ![Shelf #4 with brown fabric pinned on](/images/pinned3.jpg)
 
 Then I machine sewed that, and trimmed the excess.
-
 ![Trimming the excess brown](/images/excess.jpg)
 
 Unfortunately, I learned the hard way† that the brown fabric has a tendency to fray so I wanted to reinforce this seam. After ironing I topstitched along the seam with matching dark brown thread.
-
 ![Topstitching the brown](/images/topstitched.png)
 
 Same process for shelf #4, but I also went ahead and added the fabric for the space underneath the shelf now. Same deal with topstitching, except that I used white thread. Here's a closeup of both rows of topstitching:
-
 ![Topstitching the brown](/images/topstitchingcloseup.png)
 
 †Long story short: After machine washing my son's quilt, there were holes in several places along the seams between the brown fabric and other fabrics. I do not believe in hand wash only baby items (I mean, I acknowledge they exist but do not think they *should* exist) so I wound up unpicking his entire quilt, re-doing it with topstitching along the brown, and putting the whole thing back together. I have since machine washed that quilt with no further issues.
@@ -77,7 +73,6 @@ Visually I want the slanted books to be centered, so I unpicked the leftmost 2 b
 <h2>Conclusion</h2>
 
 Here's a front and back view of the bookshelf so far:
-
 ![Front and back views of shelves 3 & 4 attached](/images/3and4.png)
 
 **Total time:** 3 hours.
