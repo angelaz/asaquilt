@@ -50,3 +50,5 @@ With that in mind the Totoro is a bit far too the left to make that line up well
 I'm excited to work on this project, and very pleased about the idea of adding a large sleeping Totoro. I'll also be incorporating a bit of hand-embroidery for details (eyes, nose, whiskers, claws), which will be fun since I haven't done that on a quilt before!
 
 **Time spent:** 45 minutes
+
+Keep reading [here](/general.md)!
