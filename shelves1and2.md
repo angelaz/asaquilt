@@ -2,6 +2,7 @@
 
 <h2>Finishing shelf #2</h2>
 Completing shelf #2 followed the same process as before. Here are front and back views:
+
 ![Front of shelf #2](/images/front2.jpg)
 ![Back of shelf #2](/images/back2.jpg)
 
