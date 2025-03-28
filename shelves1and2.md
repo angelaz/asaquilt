@@ -29,4 +29,6 @@ Not much to say here, just long horizontal seams. I constructed both shelves rig
 
 <h2>Conclusion</h2>
 
-It took me an hour to finish shelf #2, 1h15 minutes to make shelf #1, and another ~30 minutes to attach them. This sums to 2h45 for this step.
+It took me an hour to finish shelf #2, 1h15 minutes to make shelf #1, and another ~30 minutes to attach them.
+
+**Total time:** 2h45.
