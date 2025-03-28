@@ -19,3 +19,5 @@ Finally, I added the background fabric to the top as well and we're done!
 ![All shelves with sides](/images/top3.jpg)
 
 **Total time:** 1h45.
+
+Continue [here](/quilting.md).
