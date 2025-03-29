@@ -14,3 +14,7 @@ Here I'll be documenting the process of making a bookshelf quilt for baby Asa. S
 9. Finished the [top](/top.md)
 10. [Quilted](/quilting.md) the quilt
 11. [Bound](/binding.md) the quilt
+
+All in all, this project took 17½ hours.
+
+![Finished quilt](/images/alldone.jpg)
